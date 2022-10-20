@@ -1,7 +1,7 @@
 # IBM-Project-26590-1660030178
 
 
-This project is done under the guidance of IBM-Naalaya Thiran Program
+This project is done under the guidance of IBM-Nalaiya Thiran Program
 
 Project-Name : Web Phishing Detection
 
